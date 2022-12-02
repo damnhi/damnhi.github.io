@@ -1,2 +1,2 @@
 # My name is Damian Otto
-## I am an AI student on AGH
+## I study Computer Science and Artificial Intelligence at AGH Univeristy
