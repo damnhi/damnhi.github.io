@@ -2,8 +2,9 @@
 ### I study Computer Science and Artificial Intelligence at AGH Univeristy
 
 ### Projects that im working on:
-  UnPause - fitness mobile app.
-
+ >> UnPause - fitness mobile app.
+ 
+### Colors in Hex:
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
